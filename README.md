@@ -1,2 +1,2 @@
 # codingstudies
-some code that I found interesting while learning to code
+I simply add some code that I find interesting while learning to code
